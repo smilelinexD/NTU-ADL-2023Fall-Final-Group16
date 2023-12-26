@@ -1,0 +1,332 @@
+[
+  {
+    "image_path": "data/VisA/capsules/Data/Images/Normal/000.JPG",
+    "tar_prompt": "The anomaly defect in the picture is that one of the green capsules is missing, leaving a gap in the otherwise uniform arrangement of the other capsules.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/capsules/000.JPG"
+  },
+  {
+    "image_path": "data/VisA/capsules/Data/Images/Normal/030.JPG",
+    "tar_prompt": "One of the green capsules has a black spot on it, which is an anomaly compared to the rest of the capsules.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/capsules/030.JPG"
+  },
+  {
+    "image_path": "data/VisA/capsules/Data/Images/Normal/045.JPG",
+    "tar_prompt": "In the image, there is a green glass ball that is not perfectly round, which stands out among the other green glass balls.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/capsules/045.JPG"
+  },
+  {
+    "image_path": "data/VisA/capsules/Data/Images/Normal/047.JPG",
+    "tar_prompt": "There is one green glass ball that is different from the others, as it has a black spot in the middle.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/capsules/047.JPG"
+  },
+  {
+    "image_path": "data/VisA/capsules/Data/Images/Normal/085.JPG",
+    "tar_prompt": "There is one green pill that is slightly different from the rest, as it is not perfectly round and has a slightly different shape.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/capsules/085.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/000.JPG",
+    "tar_prompt": "The peanut in the image has a small black spot on it, which is an anomaly defect.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/cashew/000.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/001.JPG",
+    "tar_prompt": "The peanut in the image has a blemish on it, which is an anomaly defect.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/cashew/001.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/009.JPG",
+    "tar_prompt": "The peanut in the image has a small blemish or spot on it.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/cashew/009.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/012.JPG",
+    "tar_prompt": "The peanut is cracked on the side.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/cashew/012.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/025.JPG",
+    "tar_prompt": "The anomaly in the picture is a small black spot on the peanut.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/cashew/025.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/032.JPG",
+    "tar_prompt": "The peanut in the image has a bite taken out of it.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/cashew/032.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/037.JPG",
+    "tar_prompt": "The peanut in the image has a hole in it.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/cashew/037.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/038.JPG",
+    "tar_prompt": "The anomaly in the picture is a small hole in the middle of the peanut butter sandwich cracker.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/cashew/038.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/042.JPG",
+    "tar_prompt": "The peanut in the image has a hole in the center.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/cashew/042.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/044.JPG",
+    "tar_prompt": "The peanut in the image is not a perfect circle, but rather has a slightly odd shape.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/cashew/044.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/046.JPG",
+    "tar_prompt": "The peanut has a black spot on it, which is an anomaly defect.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/cashew/046.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/055.JPG",
+    "tar_prompt": "The peanut has a small black spot on it.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/cashew/055.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/058.JPG",
+    "tar_prompt": "The peanut is cracked in half, which is an anomaly defect.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/cashew/058.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/078.JPG",
+    "tar_prompt": "The peanut in the image has a small hole in it.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/cashew/078.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/092.JPG",
+    "tar_prompt": "The peanut in the image has a small hole in it.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/cashew/092.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/094.JPG",
+    "tar_prompt": "The cookie has a bite taken out of it, making it look like a smiley face.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/cashew/094.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/000.JPG",
+    "tar_prompt": "A piece of white plastic with a hole in it is sitting on a black surface.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/chewinggum/000.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/001.JPG",
+    "tar_prompt": "A piece of candy has a bite taken out of it, and there is a small piece of candy stuck in the bite mark.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/chewinggum/001.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/002.JPG",
+    "tar_prompt": "The white object in the picture has a hole in it.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/chewinggum/002.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/005.JPG",
+    "tar_prompt": "The anomaly in the picture is a bite taken out of the middle of the white candy bar.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/chewinggum/005.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/007.JPG",
+    "tar_prompt": "The anomaly defect in the picture is a hole in the middle of the white object, which appears to be a piece of gum.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/chewinggum/007.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/016.JPG",
+    "tar_prompt": "The white object in the image has a crack in it.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/chewinggum/016.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/030.JPG",
+    "tar_prompt": "The anomaly in the picture is a piece of a white object, possibly a piece of a candy bar, with a bite taken out of it.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/chewinggum/030.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/032.JPG",
+    "tar_prompt": "The white square object has a black spot in the middle of it.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/chewinggum/032.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/059.JPG",
+    "tar_prompt": "The white object in the image has a hole in it.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/chewinggum/059.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/066.JPG",
+    "tar_prompt": "A white bar of soap has a crack in it.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/chewinggum/066.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/075.JPG",
+    "tar_prompt": "The white object in the image has a small hole in it.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/chewinggum/075.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/080.JPG",
+    "tar_prompt": "The white object in the image has a small black dot on it, which is an anomaly defect.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/chewinggum/080.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/081.JPG",
+    "tar_prompt": "The white object has a hole in the middle, which is an anomaly defect.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/chewinggum/081.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/085.JPG",
+    "tar_prompt": "The white object in the image has a small black spot on it, which is an anomaly defect.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/chewinggum/085.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/093.JPG",
+    "tar_prompt": "The white object in the image has a small hole in it.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/chewinggum/093.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0000.JPG",
+    "tar_prompt": "The anomaly in the picture is that one of the candles has a wick that is not straight, which is different from the other candles.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/candle/0000.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0005.JPG",
+    "tar_prompt": "One of the candles has a small crack in the side.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/candle/0005.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0006.JPG",
+    "tar_prompt": "One of the candles has a small crack in it.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/candle/0006.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0010.JPG",
+    "tar_prompt": "The anomaly defect in the picture is that one of the candle holders has a visible hole in it.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/candle/0010.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0017.JPG",
+    "tar_prompt": "The candles are all white, except for one that is black.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/candle/0017.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0030.JPG",
+    "tar_prompt": "The anomaly defect in the picture is that one of the candles has a wick that is not fully visible, as it is partially obscured by the other candles.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/candle/0030.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0034.JPG",
+    "tar_prompt": "The anomaly defect in the picture is that one of the candles has a wick that is not lit, while the other three candles have lit wicks.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/candle/0034.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0040.JPG",
+    "tar_prompt": "The anomaly defect in the picture is that one of the candles has a red dot on it, which is not present on the other candles.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/candle/0040.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0044.JPG",
+    "tar_prompt": "The anomaly defect in the picture is that one of the candles has a black mark on it, which is not present on the other candles.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/candle/0044.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0050.JPG",
+    "tar_prompt": "The anomaly defect in the picture is that one of the candles has a number 7 on it, which is not typical for candles.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/candle/0050.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0053.JPG",
+    "tar_prompt": "The candle on the left has a pink spot on it, which is an anomaly compared to the other candles.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/candle/0053.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0056.JPG",
+    "tar_prompt": "The anomaly defect in the picture is that one of the candles has a wick that is not fully visible, while the other candles have their wicks fully visible.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/candle/0056.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0060.JPG",
+    "tar_prompt": "The anomaly defect in the picture is that one of the candles has a slightly different shape, making it stand out from the other three candles.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/candle/0060.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0069.JPG",
+    "tar_prompt": "The candles in the image have a defect, as they are all missing their wicks.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/candle/0069.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0070.JPG",
+    "tar_prompt": "The anomaly in the picture is that one of the four white candles has a black spot on it, which makes it stand out from the other three candles.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/candle/0070.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0071.JPG",
+    "tar_prompt": "The anomaly defect in the picture is that one of the candles has a hole in it.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/candle/0071.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0081.JPG",
+    "tar_prompt": "The candle on the left has a black spot on it.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/candle/0081.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0085.JPG",
+    "tar_prompt": "The candle on the right has a small hole in it.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/candle/0085.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0092.JPG",
+    "tar_prompt": "The anomaly defect in the picture is that one of the candles has a wick that is not fully visible, as it is partially covered by the candle.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_llava_caption/Normal/candle/0092.JPG"
+  }
+]

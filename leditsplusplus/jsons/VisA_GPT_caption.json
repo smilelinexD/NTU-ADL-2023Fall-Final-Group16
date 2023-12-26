@@ -1,0 +1,332 @@
+[
+  {
+    "image_path": "data/VisA/capsules/Data/Images/Normal/000.JPG",
+    "tar_prompt": "A group of glossy green capsules on a grey background; one capsule has a visible air bubble.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/capsules/000.JPG"
+  },
+  {
+    "image_path": "data/VisA/capsules/Data/Images/Normal/030.JPG",
+    "tar_prompt": "Multiple green capsules scattered, with one showing a slight deformation on its surface.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/capsules/030.JPG"
+  },
+  {
+    "image_path": "data/VisA/capsules/Data/Images/Normal/045.JPG",
+    "tar_prompt": "Green capsules laid out; one capsule is notably cracked and leaking contents.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/capsules/045.JPG"
+  },
+  {
+    "image_path": "data/VisA/capsules/Data/Images/Normal/047.JPG",
+    "tar_prompt": "An arrangement of green capsules; one has a distinct dark spot on its shell.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/capsules/047.JPG"
+  },
+  {
+    "image_path": "data/VisA/capsules/Data/Images/Normal/085.JPG",
+    "tar_prompt": "A collection of green capsules, one of which has a rough texture on its exterior.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/capsules/085.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/000.JPG",
+    "tar_prompt": "A cashew nut with a smooth contour against a black textured backdrop.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/cashew/000.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/001.JPG",
+    "tar_prompt": "One cashew nut exhibiting a small, brown discoloration on its surface.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/cashew/001.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/009.JPG",
+    "tar_prompt": "A singular cashew nut with a slight, natural blemish on a dark background.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/cashew/009.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/012.JPG",
+    "tar_prompt": "A cashew nut with a nibble taken out from its edge, placed on a black texture.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/cashew/012.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/025.JPG",
+    "tar_prompt": "A cashew nut featuring a minute black dot, contrasting with the black textured surface beneath it.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/cashew/025.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/032.JPG",
+    "tar_prompt": "A whole cashew nut with a small indentation on its side, resting on a textured background.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/cashew/032.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/037.JPG",
+    "tar_prompt": "A single cashew nut with a gray mark near its center, on a black textured surface.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/cashew/037.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/038.JPG",
+    "tar_prompt": "A cashew nut with a tiny puncture in the middle, against a dark background.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/cashew/038.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/042.JPG",
+    "tar_prompt": "A cashew nut with a small white speck on its curve, placed on a textured black base.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/cashew/042.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/044.JPG",
+    "tar_prompt": "A cashew nut displaying a subtle scratch or abrasion on its surface, on a black textured mat.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/cashew/044.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/046.JPG",
+    "tar_prompt": "A cashew nut with a single dark speck on its top, against a textured black background.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/cashew/046.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/055.JPG",
+    "tar_prompt": "A cashew nut with a faint scratch on its surface, placed on a black textured surface.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/cashew/055.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/058.JPG",
+    "tar_prompt": "A cashew nut exhibiting a small indentation on its edge, on a black textured background.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/cashew/058.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/078.JPG",
+    "tar_prompt": "A cashew nut with a tiny piece missing from its side, resting on a black textured backdrop.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/cashew/078.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/092.JPG",
+    "tar_prompt": "A cashew nut displaying a dark dot on its curve, set against a black textured background.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/cashew/092.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/094.JPG",
+    "tar_prompt": "A cashew nut with a small white blemish on its surface, on a black textured background.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/cashew/094.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/000.JPG",
+    "tar_prompt": "a piece of white chewing gum on a black textured background, marred by an attached white, fibrous substance.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/chewinggum/000.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/001.JPG",
+    "tar_prompt": "a piece of white chewing gum with a rough, brown blemish on its surface, against a black textured backdrop.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/chewinggum/001.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/002.JPG",
+    "tar_prompt": "a piece of white chewing gum with a small fibrous particle and a hair-like strand attached to its surface, set against a black textured background.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/chewinggum/002.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/005.JPG",
+    "tar_prompt": "a piece of white chewing gum with a noticeable indentation and crumbled area in the center, contrasting with the dark textured background.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/chewinggum/005.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/007.JPG",
+    "tar_prompt": "a piece of white chewing gum with a small, flaky blemish on its surface, set against a black, textured backdrop.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/chewinggum/007.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/016.JPG",
+    "tar_prompt": "a white piece of chewing gum with a central indentation on its surface, contrasting with a black, textured background.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/chewinggum/016.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/030.JPG",
+    "tar_prompt": "a white piece of chewing gum with a chipped corner, set against a textured black background.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/chewinggum/030.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/032.JPG",
+    "tar_prompt": "a white piece of chewing gum with no visible anomalies, placed on a black textured surface.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/chewinggum/032.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/059.JPG",
+    "tar_prompt": "a white piece of chewing gum with a visible indentation and some debris, against a black textured background.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/chewinggum/059.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/066.JPG",
+    "tar_prompt": "a white piece of chewing gum on a black textured surface, with two thin parallel indentations running across its surface.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/chewinggum/066.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/075.JPG",
+    "tar_prompt": "a piece of white chewing gum on a black textured surface, featuring a small, round, dark imperfection on its surface.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/chewinggum/075.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/080.JPG",
+    "tar_prompt": "a piece of white chewing gum on a black textured background, with a small, clear bubble-like anomaly attached to its side.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/chewinggum/080.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/081.JPG",
+    "tar_prompt": "a piece of white chewing gum on a black textured surface with a tiny, spherical gray anomaly on its upper surface.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/chewinggum/081.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/085.JPG",
+    "tar_prompt": "a piece of white chewing gum placed on a textured black background, with a small, circular translucent anomaly near one of its edges.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/chewinggum/085.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/093.JPG",
+    "tar_prompt": "a piece of white chewing gum with a small, round, bead-like anomaly on its surface, set against a textured black background.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/chewinggum/093.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0000.JPG",
+    "tar_prompt": "Four pristine white candles on a dark background, untouched and ready for lighting.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/candle/0000.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0005.JPG",
+    "tar_prompt": "A quartet of white candles, one with a slight imperfection on its surface.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/candle/0005.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0006.JPG",
+    "tar_prompt": "An array of white candles, with one showcasing a unique drip pattern on its side.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/candle/0006.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0010.JPG",
+    "tar_prompt": "White candles in a row, one with a distinctive wick bent to the side.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/candle/0010.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0017.JPG",
+    "tar_prompt": "A collection of white candles, each with its own subtle irregularities and wax textures.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/candle/0017.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0030.JPG",
+    "tar_prompt": "Candles grouped, one with a noticeable notch on its edge.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/candle/0030.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0034.JPG",
+    "tar_prompt": "Uniform white candles, one featuring a wick that has split slightly.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/candle/0034.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0040.JPG",
+    "tar_prompt": "Candles on display, with one having a small, colored mark on its surface.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/candle/0040.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0044.JPG",
+    "tar_prompt": "A set of candles, with one exhibiting a tiny piece of wick fallen onto its top.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/candle/0044.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0050.JPG",
+    "tar_prompt": "An ensemble of white candles, one with a wick that leans, giving it character.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/candle/0050.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0053.JPG",
+    "tar_prompt": "Four white candles with a small pink mark near the edge.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/candle/0053.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0056.JPG",
+    "tar_prompt": "A set of white candles, one with a slightly misshapen wick.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/candle/0056.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0060.JPG",
+    "tar_prompt": "Four candles, one with a small indentation on the wax near the wick.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/candle/0060.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0069.JPG",
+    "tar_prompt": "White candles on display, with one candle having a noticeable chunk of wax missing from its side.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/candle/0069.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0070.JPG",
+    "tar_prompt": "A group of candles, one candle featuring a small black smudge on its surface.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/candle/0070.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0071.JPG",
+    "tar_prompt": "A collection of candles, one with a thin line of dirt or a scratch on the wax.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/candle/0071.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0081.JPG",
+    "tar_prompt": "An array of candles, one showing a small grayish fleck on its top surface.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/candle/0081.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0085.JPG",
+    "tar_prompt": "Candles arranged symmetrically, one with a wick that is bent to one side.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/candle/0085.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0092.JPG",
+    "tar_prompt": "A quartet of candles, with one having a small area of discoloration on its top.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/candle/0092.JPG"
+  }
+]

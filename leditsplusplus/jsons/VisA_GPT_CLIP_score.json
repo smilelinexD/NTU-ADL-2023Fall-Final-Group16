@@ -1,0 +1,386 @@
+[
+  {
+    "image_path": "data/VisA/fryum/Data/Images/Normal/000.JPG",
+    "tar_prompt": "a photo of fryum with charred"
+  },
+  {
+    "image_path": "data/VisA/fryum/Data/Images/Normal/007.JPG",
+    "tar_prompt": "a photo of fryum with like-colored mark"
+  },
+  {
+    "image_path": "data/VisA/fryum/Data/Images/Normal/010.JPG",
+    "tar_prompt": "a photo of fryum with angular fracture"
+  },
+  {
+    "image_path": "data/VisA/fryum/Data/Images/Normal/016.JPG",
+    "tar_prompt": "a photo of fryum with central split"
+  },
+  {
+    "image_path": "data/VisA/fryum/Data/Images/Normal/017.JPG",
+    "tar_prompt": "a photo of fryum with angular fracture,minor scrapes"
+  },
+  {
+    "image_path": "data/VisA/fryum/Data/Images/Normal/020.JPG",
+    "tar_prompt": "a photo of fryum with contrasting color mark"
+  },
+  {
+    "image_path": "data/VisA/fryum/Data/Images/Normal/026.JPG",
+    "tar_prompt": "a photo of fryum with contrasting color mark,like-colored mark"
+  },
+  {
+    "image_path": "data/VisA/fryum/Data/Images/Normal/028.JPG",
+    "tar_prompt": "a photo of fryum with like-colored mark,minor scrapes"
+  },
+  {
+    "image_path": "data/VisA/fryum/Data/Images/Normal/040.JPG",
+    "tar_prompt": "a photo of fryum with conjoined fryums"
+  },
+  {
+    "image_path": "data/VisA/fryum/Data/Images/Normal/065.JPG",
+    "tar_prompt": "a photo of fryum with central split,minor scrapes"
+  },
+  {
+    "image_path": "data/VisA/fryum/Data/Images/Normal/069.JPG",
+    "tar_prompt": "a photo of fryum with central split,like-colored mark"
+  },
+  {
+    "image_path": "data/VisA/fryum/Data/Images/Normal/087.JPG",
+    "tar_prompt": "a photo of fryum with like-colored mark,additional"
+  },
+  {
+    "image_path": "data/VisA/fryum/Data/Images/Normal/090.JPG",
+    "tar_prompt": "a photo of fryum with minor scrapes"
+  },
+  {
+    "image_path": "data/VisA/capsules/Data/Images/Normal/000.JPG",
+    "tar_prompt": "a photo of capsules with blister"
+  },
+  {
+    "image_path": "data/VisA/capsules/Data/Images/Normal/030.JPG",
+    "tar_prompt": "a photo of capsules with blister,stain"
+  },
+  {
+    "image_path": "data/VisA/capsules/Data/Images/Normal/045.JPG",
+    "tar_prompt": "a photo of capsules with blister,stain,scrape"
+  },
+  {
+    "image_path": "data/VisA/capsules/Data/Images/Normal/047.JPG",
+    "tar_prompt": "a photo of capsules with blister,stain,scrape"
+  },
+  {
+    "image_path": "data/VisA/capsules/Data/Images/Normal/085.JPG",
+    "tar_prompt": "a photo of capsules with blister,stain,scrape"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/000.JPG",
+    "tar_prompt": "a photo of cashew with charred,angular fracture"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/001.JPG",
+    "tar_prompt": "a photo of cashew with charred"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/009.JPG",
+    "tar_prompt": "a photo of cashew with charred,contrasting color mark"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/012.JPG",
+    "tar_prompt": "a photo of cashew with angular fracture"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/025.JPG",
+    "tar_prompt": "a photo of cashew with contrasting color mark"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/032.JPG",
+    "tar_prompt": "a photo of cashew with central split"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/037.JPG",
+    "tar_prompt": "a photo of cashew with central split,tiny openings"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/038.JPG",
+    "tar_prompt": "a photo of cashew with tiny openings"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/042.JPG",
+    "tar_prompt": "a photo of cashew with central split,identical color mark"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/044.JPG",
+    "tar_prompt": "a photo of cashew with identical color mark"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/046.JPG",
+    "tar_prompt": "a photo of cashew with contrasting color mark,identical color mark"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/055.JPG",
+    "tar_prompt": "a photo of cashew with contrasting color mark,tiny openings"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/058.JPG",
+    "tar_prompt": "a photo of cashew with charred,identical color mark"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/078.JPG",
+    "tar_prompt": "a photo of cashew with minor scrapes"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/092.JPG",
+    "tar_prompt": "a photo of cashew with angular fracture,minor scrapes"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/094.JPG",
+    "tar_prompt": "a photo of cashew with adhered"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/000.JPG",
+    "tar_prompt": "a photo of chewinggum with piece of gum absent,scrapes,minor fissures"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/001.JPG",
+    "tar_prompt": "a photo of chewinggum with absent angle,minor fissures"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/002.JPG",
+    "tar_prompt": "a photo of chewinggum with piece of gum absent,minor fissures"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/005.JPG",
+    "tar_prompt": "a photo of chewinggum with absent angle"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/007.JPG",
+    "tar_prompt": "a photo of chewinggum with piece of gum absent,absent angle,minor fissures"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/016.JPG",
+    "tar_prompt": "a photo of chewinggum with piece of gum absent"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/030.JPG",
+    "tar_prompt": "a photo of chewinggum with piece of gum absent,absent angle"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/032.JPG",
+    "tar_prompt": "a photo of chewinggum with absent angle,scrapes"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/059.JPG",
+    "tar_prompt": "a photo of chewinggum with piece of gum absent,scrapes"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/066.JPG",
+    "tar_prompt": "a photo of chewinggum with scrapes"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/075.JPG",
+    "tar_prompt": "a photo of chewinggum with like-colored mark"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/080.JPG",
+    "tar_prompt": "a photo of chewinggum with absent angle,like-colored mark,minor fissures"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/081.JPG",
+    "tar_prompt": "a photo of chewinggum with scrapes,like-colored mark"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/085.JPG",
+    "tar_prompt": "a photo of chewinggum with absent angle,like-colored mark"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/093.JPG",
+    "tar_prompt": "a photo of chewinggum with scrapes,like-colored mark,minor fissures"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0000.JPG",
+    "tar_prompt": "a photo of candle with piece of wax absent"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0006.JPG",
+    "tar_prompt": "a photo of candle with piece of wax absent,contrasting color mark"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0010.JPG",
+    "tar_prompt": "a photo of candle with injured edge of packaging"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0017.JPG",
+    "tar_prompt": "a photo of candle with injured edge of packaging,contrasting color mark"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0030.JPG",
+    "tar_prompt": "a photo of candle with unusual candle wick"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0034.JPG",
+    "tar_prompt": "a photo of candle with injured edge of packaging,unusual candle wick"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0040.JPG",
+    "tar_prompt": "a photo of candle with contrasting color mark"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0044.JPG",
+    "tar_prompt": "a photo of candle with injured edge of packaging,contrasting color mark,additional"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0050.JPG",
+    "tar_prompt": "a photo of candle with unusual candle wick,contrasting color mark"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0053.JPG",
+    "tar_prompt": "a photo of candle with piece of wax absent,injured edge of packaging,contrasting color mark"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0060.JPG",
+    "tar_prompt": "a photo of candle with surplus wax in candle"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0069.JPG",
+    "tar_prompt": "a photo of candle with injured edge of packaging,surplus wax in candle"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0085.JPG",
+    "tar_prompt": "a photo of candle with wax fused out of the candle"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0092.JPG",
+    "tar_prompt": "a photo of candle with contrasting color mark,wax fused out of the candle"
+  },
+  {
+    "image_path": "data/VisA/macaroni1/Data/Images/Normal/0000.JPG",
+    "tar_prompt": "a photo of macaroni1 with flake near edge and corner"
+  },
+  {
+    "image_path": "data/VisA/macaroni1/Data/Images/Normal/0005.JPG",
+    "tar_prompt": "a photo of macaroni1 with flake near edge and corner,minor scrapes"
+  },
+  {
+    "image_path": "data/VisA/macaroni1/Data/Images/Normal/0022.JPG",
+    "tar_prompt": "a photo of macaroni1 with flake near edge and corner,minor fissures"
+  },
+  {
+    "image_path": "data/VisA/macaroni1/Data/Images/Normal/0023.JPG",
+    "tar_prompt": "a photo of macaroni1 with contrasting color mark"
+  },
+  {
+    "image_path": "data/VisA/macaroni1/Data/Images/Normal/0038.JPG",
+    "tar_prompt": "a photo of macaroni1 with central split,minor scrapes"
+  },
+  {
+    "image_path": "data/VisA/macaroni1/Data/Images/Normal/0048.JPG",
+    "tar_prompt": "a photo of macaroni1 with like-colored mark"
+  },
+  {
+    "image_path": "data/VisA/macaroni1/Data/Images/Normal/0055.JPG",
+    "tar_prompt": "a photo of macaroni1 with contrasting color mark,like-colored mark"
+  },
+  {
+    "image_path": "data/VisA/macaroni1/Data/Images/Normal/0071.JPG",
+    "tar_prompt": "a photo of macaroni1 with minor fissures"
+  },
+  {
+    "image_path": "data/VisA/macaroni1/Data/Images/Normal/0078.JPG",
+    "tar_prompt": "a photo of macaroni1 with minor fissures,minor scrapes"
+  },
+  {
+    "image_path": "data/VisA/macaroni1/Data/Images/Normal/0080.JPG",
+    "tar_prompt": "a photo of macaroni1 with minor scrapes"
+  },
+  {
+    "image_path": "data/VisA/macaroni2/Data/Images/Normal/0000.JPG",
+    "tar_prompt": "a photo of macaroni2 with split down the center,minor scrapes"
+  },
+  {
+    "image_path": "data/VisA/macaroni2/Data/Images/Normal/0004.JPG",
+    "tar_prompt": "a photo of macaroni2 with split down the center"
+  },
+  {
+    "image_path": "data/VisA/macaroni2/Data/Images/Normal/0010.JPG",
+    "tar_prompt": "a photo of macaroni2 with hue mark akin to the object"
+  },
+  {
+    "image_path": "data/VisA/macaroni2/Data/Images/Normal/0030.JPG",
+    "tar_prompt": "a photo of macaroni2 with contrasting color mark"
+  },
+  {
+    "image_path": "data/VisA/macaroni2/Data/Images/Normal/0045.JPG",
+    "tar_prompt": "a photo of macaroni2 with tiny flake near edge"
+  },
+  {
+    "image_path": "data/VisA/macaroni2/Data/Images/Normal/0046.JPG",
+    "tar_prompt": "a photo of macaroni2 with tiny flake near edge,minor scrapes"
+  },
+  {
+    "image_path": "data/VisA/macaroni2/Data/Images/Normal/0070.JPG",
+    "tar_prompt": "a photo of macaroni2 with minor scrapes"
+  },
+  {
+    "image_path": "data/VisA/macaroni2/Data/Images/Normal/0071.JPG",
+    "tar_prompt": "a photo of macaroni2 with split down the center,hue mark akin to the object,contrasting color mark"
+  },
+  {
+    "image_path": "data/VisA/macaroni2/Data/Images/Normal/0072.JPG",
+    "tar_prompt": "a photo of macaroni2 with minor fissures"
+  },
+  {
+    "image_path": "data/VisA/macaroni2/Data/Images/Normal/0077.JPG",
+    "tar_prompt": "a photo of macaroni2 with minor fissures,minor scrapes"
+  },
+  {
+    "image_path": "data/VisA/macaroni2/Data/Images/Normal/0079.JPG",
+    "tar_prompt": "a photo of macaroni2 with split down the center,hue mark akin to the object,contrasting color mark"
+  },
+  {
+    "image_path": "data/VisA/macaroni2/Data/Images/Normal/0080.JPG",
+    "tar_prompt": "a photo of macaroni2 with split down the center,hue mark akin to the object,contrasting color mark"
+  },
+  {
+    "image_path": "data/VisA/macaroni2/Data/Images/Normal/0082.JPG",
+    "tar_prompt": "a photo of macaroni2 with split down the center,hue mark akin to the object,contrasting color mark"
+  },
+  {
+    "image_path": "data/VisA/pipe_fryum/Data/Images/Normal/000.JPG",
+    "tar_prompt": "a photo of pipe_fryum with charred"
+  },
+  {
+    "image_path": "data/VisA/pipe_fryum/Data/Images/Normal/015.JPG",
+    "tar_prompt": "a photo of pipe_fryum with angle and boundary fracture"
+  },
+  {
+    "image_path": "data/VisA/pipe_fryum/Data/Images/Normal/030.JPG",
+    "tar_prompt": "a photo of pipe_fryum with contrasting color mark"
+  },
+  {
+    "image_path": "data/VisA/pipe_fryum/Data/Images/Normal/040.JPG",
+    "tar_prompt": "a photo of pipe_fryum with central split,minor scrapes,minor fissures"
+  },
+  {
+    "image_path": "data/VisA/pipe_fryum/Data/Images/Normal/041.JPG",
+    "tar_prompt": "a photo of pipe_fryum with central split,minor fissures"
+  },
+  {
+    "image_path": "data/VisA/pipe_fryum/Data/Images/Normal/050.JPG",
+    "tar_prompt": "a photo of pipe_fryum with like-colored mark"
+  },
+  {
+    "image_path": "data/VisA/pipe_fryum/Data/Images/Normal/070.JPG",
+    "tar_prompt": "a photo of pipe_fryum with minor scrapes"
+  },
+  {
+    "image_path": "data/VisA/pipe_fryum/Data/Images/Normal/074.JPG",
+    "tar_prompt": "a photo of pipe_fryum with charred,minor scrapes"
+  },
+  {
+    "image_path": "data/VisA/pipe_fryum/Data/Images/Normal/087.JPG",
+    "tar_prompt": "a photo of pipe_fryum with like-colored mark,minor scrapes"
+  },
+  {
+    "image_path": "data/VisA/pipe_fryum/Data/Images/Normal/090.JPG",
+    "tar_prompt": "a photo of pipe_fryum with adhered"
+  }
+]

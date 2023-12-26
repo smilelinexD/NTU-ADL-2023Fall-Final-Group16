@@ -1,0 +1,17 @@
+[
+    {
+        "image_path": "butterfly_input.jpg",
+        "tar_prompt": "Turn this into a bee.",
+        "out_image_path": "butterfly_output_bee.jpg"
+    },
+    {
+        "image_path": "car_input.png",
+        "tar_prompt": "Turn the car into a green car and cherry blossom tree.",
+        "out_image_path": "car_output_green_car_cherry_blossom_tree.png"
+    },
+    {
+        "image_path": "lemons_input.jpg",
+        "tar_prompt": "Turn this into a basket of apples.",
+        "out_image_path": "lemons_output_apples.jpg"
+    }
+]

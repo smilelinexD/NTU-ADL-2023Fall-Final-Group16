@@ -1,0 +1,8 @@
+*__pycache__
+leditsplusplus/data/
+leditsplusplus/outputs/
+leditsplusplus/examples/
+leditsplusplus/gradio_cached_examples/
+leditsplusplus/metrics/VisA_base/
+venv/
+

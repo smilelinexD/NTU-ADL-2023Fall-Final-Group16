@@ -1,0 +1,8 @@
+[
+  {
+    "image_path": "data/VisA/capsules/Data/Images/Normal/000.JPG",
+    "tar_embedding_path": "../../visii/logs/sdv1-5_painting1_0_0.png/prompt_embeds_best.pt",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_GPT_caption/Normal/capsules/000.JPG"
+  }
+]

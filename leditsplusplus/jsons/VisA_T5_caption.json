@@ -1,0 +1,332 @@
+[
+  {
+    "image_path": "data/VisA/capsules/Data/Images/Normal/000.JPG",
+    "tar_prompt": "A photo of capsules with bubbles.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/capsules/000.JPG"
+  },
+  {
+    "image_path": "data/VisA/capsules/Data/Images/Normal/030.JPG",
+    "tar_prompt": "a photo of capsules with bubbles, reddish-colored.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/capsules/030.JPG"
+  },
+  {
+    "image_path": "data/VisA/capsules/Data/Images/Normal/045.JPG",
+    "tar_prompt": "a photo of capsules with the blob, discolor, scratch, leak.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/capsules/045.JPG"
+  },
+  {
+    "image_path": "data/VisA/capsules/Data/Images/Normal/047.JPG",
+    "tar_prompt": "A photo of capsules with bubble, deodorization, crack, leak, crease.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/capsules/047.JPG"
+  },
+  {
+    "image_path": "data/VisA/capsules/Data/Images/Normal/085.JPG",
+    "tar_prompt": "a photo of capsules with bubbles, color, scratches.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/capsules/085.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/000.JPG",
+    "tar_prompt": "A photo of cashew with burnt,corner or edge scarring",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/cashew/000.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/001.JPG",
+    "tar_prompt": "a photo of cashew with burned.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/cashew/001.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/009.JPG",
+    "tar_prompt": "a photo of cashew with burned, different colour spot.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/cashew/009.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/012.JPG",
+    "tar_prompt": "a photo of cashew with an edge or corner separation.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/cashew/012.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/025.JPG",
+    "tar_prompt": "a photo of cashew with different colour stains.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/cashew/025.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/032.JPG",
+    "tar_prompt": "A photo of cashew with a middle breakage.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/cashew/032.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/037.JPG",
+    "tar_prompt": "A photo of cashew with middle bruch,small holes.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/cashew/037.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/038.JPG",
+    "tar_prompt": "a photo of cashews with small holes",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/cashew/038.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/042.JPG",
+    "tar_prompt": "a photo of cashew with the middle crack, same colour spot",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/cashew/042.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/044.JPG",
+    "tar_prompt": "A photo of Cashew with same colour splot.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/cashew/044.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/046.JPG",
+    "tar_prompt": "A photo of cashews with different colour spot, same colour spot.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/cashew/046.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/055.JPG",
+    "tar_prompt": "A photo of cashews with different colour spots,small holes.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/cashew/055.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/058.JPG",
+    "tar_prompt": "A photo of cashew with burned, same colour spot",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/cashew/058.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/078.JPG",
+    "tar_prompt": "A photo of cashew with small scratches.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/cashew/078.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/092.JPG",
+    "tar_prompt": "a photo of cashew with corner or edge cracking,small scratches.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/cashew/092.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/094.JPG",
+    "tar_prompt": "A photo of cashew with the couple stuck together.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/cashew/094.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/000.JPG",
+    "tar_prompt": "a photo of chewing gum missing the chunks,cratches,small cracks.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/chewinggum/000.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/001.JPG",
+    "tar_prompt": "a photo of chewing gum with corners missing, small cracks.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/chewinggum/001.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/002.JPG",
+    "tar_prompt": "a photo of chewing gum with missing a chunk of gum, small cracks.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/chewinggum/002.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/005.JPG",
+    "tar_prompt": "A photo of chewing gum missing a corner.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/chewinggum/005.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/007.JPG",
+    "tar_prompt": "a picture of chewing gum with missing section of gum,corner missing,small cracks.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/chewinggum/007.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/016.JPG",
+    "tar_prompt": "a photo of chewing gum missing a chunk of gum.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/chewinggum/016.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/030.JPG",
+    "tar_prompt": "A photo of chewing gum with missing chunk of gum missing, missing blunder.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/chewinggum/030.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/032.JPG",
+    "tar_prompt": "a photo of chewing gum missing with corners and scratches.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/chewinggum/032.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/059.JPG",
+    "tar_prompt": "a photo of chewing gum missing an important chunk of gum.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/chewinggum/059.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/066.JPG",
+    "tar_prompt": "a picture of chewing gum with scratches.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/chewinggum/066.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/075.JPG",
+    "tar_prompt": "a photo of chewing gum with similar colour spot.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/chewinggum/075.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/080.JPG",
+    "tar_prompt": "a photo of chewing gum with missing corner, similar color spot, small cracks.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/chewinggum/080.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/081.JPG",
+    "tar_prompt": "a photograph of chewing gum with scratches, in the same colour spot.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/chewinggum/081.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/085.JPG",
+    "tar_prompt": "A photo of chewing gum missing corner, same colour spot.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/chewinggum/085.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/093.JPG",
+    "tar_prompt": "a picture of chewing gum with scratches, similar color spot, small cracks.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/chewinggum/093.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0000.JPG",
+    "tar_prompt": "a photo of candle missing a chunk of wax.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/candle/0000.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0005.JPG",
+    "tar_prompt": "a photo of candle with the missing chalcopyrites, Foreign Particals on the candle.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/candle/0005.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0006.JPG",
+    "tar_prompt": "A photo of a candle missing one point of wax,different colour spot.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/candle/0006.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0010.JPG",
+    "tar_prompt": "a photo of the candle with the damaged corner of the packaging.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/candle/0010.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0017.JPG",
+    "tar_prompt": "a photo of candle with damaged corner of packaging,different color place.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/candle/0017.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0030.JPG",
+    "tar_prompt": "a photo of candle with a strange candle wick.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/candle/0030.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0034.JPG",
+    "tar_prompt": "A photo of candle with damaged corner of packaging, beautiful candle wick.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/candle/0034.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0040.JPG",
+    "tar_prompt": "a photo of candle with a different colour swatch.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/candle/0040.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0044.JPG",
+    "tar_prompt": "a picture of candle with damaged corner of the packaging,different colour spot,other.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/candle/0044.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0050.JPG",
+    "tar_prompt": "a photo of candle with odd candle wick,different colour spot.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/candle/0050.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0053.JPG",
+    "tar_prompt": "a photo of a candle missing a chunk of wax, damaged corner of the packaging,different color spot.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/candle/0053.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0056.JPG",
+    "tar_prompt": "a photo of candle with different color spot, foreshore particals on candle.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/candle/0056.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0060.JPG",
+    "tar_prompt": "a photo of candle with additional wax in candle.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/candle/0060.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0069.JPG",
+    "tar_prompt": "a photo of candle with damaged corner of packaging, extra wax.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/candle/0069.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0070.JPG",
+    "tar_prompt": "A photo of candle with foreign parts melded onto candle, wax dissolved out of the candle.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/candle/0070.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0071.JPG",
+    "tar_prompt": "a photo of a candle with foreign parts on the candle.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/candle/0071.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0081.JPG",
+    "tar_prompt": "A photo of candle with damaged corner of packaging, foreign particals on candle.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/candle/0081.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0085.JPG",
+    "tar_prompt": "a photo of candle with wax gathered from the candle.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/candle/0085.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0092.JPG",
+    "tar_prompt": "a photo of candle with different color tatter,wax melded from the candle.",
+    "tar_cfg_scale": 15,
+    "output_image_path": "outputs/VisA_T5_caption/Normal/candle/0092.JPG"
+  }
+]

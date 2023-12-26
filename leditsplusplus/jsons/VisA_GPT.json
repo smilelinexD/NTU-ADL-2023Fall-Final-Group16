@@ -1,0 +1,962 @@
+[
+  {
+    "image_path": "data/VisA/fryum/Data/Images/Normal/000.JPG",
+    "edit_concept_1": "charred",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/fryum/000.JPG"
+  },
+  {
+    "image_path": "data/VisA/fryum/Data/Images/Normal/007.JPG",
+    "edit_concept_1": "like-colored mark",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/fryum/007.JPG"
+  },
+  {
+    "image_path": "data/VisA/fryum/Data/Images/Normal/010.JPG",
+    "edit_concept_1": "angular fracture",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/fryum/010.JPG"
+  },
+  {
+    "image_path": "data/VisA/fryum/Data/Images/Normal/016.JPG",
+    "edit_concept_1": "central split",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/fryum/016.JPG"
+  },
+  {
+    "image_path": "data/VisA/fryum/Data/Images/Normal/017.JPG",
+    "edit_concept_1": "angular fracture",
+    "edit_concept_2": "minor scrapes",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/fryum/017.JPG"
+  },
+  {
+    "image_path": "data/VisA/fryum/Data/Images/Normal/020.JPG",
+    "edit_concept_1": "contrasting color mark",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/fryum/020.JPG"
+  },
+  {
+    "image_path": "data/VisA/fryum/Data/Images/Normal/026.JPG",
+    "edit_concept_1": "contrasting color mark",
+    "edit_concept_2": "like-colored mark",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/fryum/026.JPG"
+  },
+  {
+    "image_path": "data/VisA/fryum/Data/Images/Normal/028.JPG",
+    "edit_concept_1": "like-colored mark",
+    "edit_concept_2": "minor scrapes",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/fryum/028.JPG"
+  },
+  {
+    "image_path": "data/VisA/fryum/Data/Images/Normal/040.JPG",
+    "edit_concept_1": "conjoined fryums",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/fryum/040.JPG"
+  },
+  {
+    "image_path": "data/VisA/fryum/Data/Images/Normal/065.JPG",
+    "edit_concept_1": "central split",
+    "edit_concept_2": "minor scrapes",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/fryum/065.JPG"
+  },
+  {
+    "image_path": "data/VisA/fryum/Data/Images/Normal/069.JPG",
+    "edit_concept_1": "central split",
+    "edit_concept_2": "like-colored mark",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/fryum/069.JPG"
+  },
+  {
+    "image_path": "data/VisA/fryum/Data/Images/Normal/087.JPG",
+    "edit_concept_1": "like-colored mark",
+    "edit_concept_2": "additional",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/fryum/087.JPG"
+  },
+  {
+    "image_path": "data/VisA/fryum/Data/Images/Normal/090.JPG",
+    "edit_concept_1": "minor scrapes",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/fryum/090.JPG"
+  },
+  {
+    "image_path": "data/VisA/capsules/Data/Images/Normal/000.JPG",
+    "edit_concept_1": "blister",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/capsules/000.JPG"
+  },
+  {
+    "image_path": "data/VisA/capsules/Data/Images/Normal/030.JPG",
+    "edit_concept_1": "blister",
+    "edit_concept_2": "stain",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/capsules/030.JPG"
+  },
+  {
+    "image_path": "data/VisA/capsules/Data/Images/Normal/045.JPG",
+    "edit_concept_1": "blister",
+    "edit_concept_2": "stain",
+    "edit_concept_3": "scrape",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 15,
+    "output_image_path": "outputs/VisA_GPT/Normal/capsules/045.JPG"
+  },
+  {
+    "image_path": "data/VisA/capsules/Data/Images/Normal/047.JPG",
+    "edit_concept_1": "blister",
+    "edit_concept_2": "stain",
+    "edit_concept_3": "scrape",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 15,
+    "output_image_path": "outputs/VisA_GPT/Normal/capsules/047.JPG"
+  },
+  {
+    "image_path": "data/VisA/capsules/Data/Images/Normal/085.JPG",
+    "edit_concept_1": "blister",
+    "edit_concept_2": "stain",
+    "edit_concept_3": "scrape",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 15,
+    "output_image_path": "outputs/VisA_GPT/Normal/capsules/085.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/000.JPG",
+    "edit_concept_1": "charred",
+    "edit_concept_2": "angular fracture",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/cashew/000.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/001.JPG",
+    "edit_concept_1": "charred",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/cashew/001.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/009.JPG",
+    "edit_concept_1": "charred",
+    "edit_concept_2": "contrasting color mark",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/cashew/009.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/012.JPG",
+    "edit_concept_1": "angular fracture",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/cashew/012.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/025.JPG",
+    "edit_concept_1": "contrasting color mark",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/cashew/025.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/032.JPG",
+    "edit_concept_1": "central split",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/cashew/032.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/037.JPG",
+    "edit_concept_1": "central split",
+    "edit_concept_2": "tiny openings",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/cashew/037.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/038.JPG",
+    "edit_concept_1": "tiny openings",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/cashew/038.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/042.JPG",
+    "edit_concept_1": "central split",
+    "edit_concept_2": "identical color mark",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/cashew/042.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/044.JPG",
+    "edit_concept_1": "identical color mark",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/cashew/044.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/046.JPG",
+    "edit_concept_1": "contrasting color mark",
+    "edit_concept_2": "identical color mark",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/cashew/046.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/055.JPG",
+    "edit_concept_1": "contrasting color mark",
+    "edit_concept_2": "tiny openings",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/cashew/055.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/058.JPG",
+    "edit_concept_1": "charred",
+    "edit_concept_2": "identical color mark",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/cashew/058.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/078.JPG",
+    "edit_concept_1": "minor scrapes",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/cashew/078.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/092.JPG",
+    "edit_concept_1": "angular fracture",
+    "edit_concept_2": "minor scrapes",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/cashew/092.JPG"
+  },
+  {
+    "image_path": "data/VisA/cashew/Data/Images/Normal/094.JPG",
+    "edit_concept_1": "adhered",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/cashew/094.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/000.JPG",
+    "edit_concept_1": "piece of gum absent",
+    "edit_concept_2": "scrapes",
+    "edit_concept_3": "minor fissures",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 15,
+    "output_image_path": "outputs/VisA_GPT/Normal/chewinggum/000.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/001.JPG",
+    "edit_concept_1": "absent angle",
+    "edit_concept_2": "minor fissures",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/chewinggum/001.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/002.JPG",
+    "edit_concept_1": "piece of gum absent",
+    "edit_concept_2": "minor fissures",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/chewinggum/002.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/005.JPG",
+    "edit_concept_1": "absent angle",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/chewinggum/005.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/007.JPG",
+    "edit_concept_1": "piece of gum absent",
+    "edit_concept_2": "absent angle",
+    "edit_concept_3": "minor fissures",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 15,
+    "output_image_path": "outputs/VisA_GPT/Normal/chewinggum/007.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/016.JPG",
+    "edit_concept_1": "piece of gum absent",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/chewinggum/016.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/030.JPG",
+    "edit_concept_1": "piece of gum absent",
+    "edit_concept_2": "absent angle",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/chewinggum/030.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/032.JPG",
+    "edit_concept_1": "absent angle",
+    "edit_concept_2": "scrapes",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/chewinggum/032.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/059.JPG",
+    "edit_concept_1": "piece of gum absent",
+    "edit_concept_2": "scrapes",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/chewinggum/059.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/066.JPG",
+    "edit_concept_1": "scrapes",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/chewinggum/066.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/075.JPG",
+    "edit_concept_1": "like-colored mark",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/chewinggum/075.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/080.JPG",
+    "edit_concept_1": "absent angle",
+    "edit_concept_2": "like-colored mark",
+    "edit_concept_3": "minor fissures",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 15,
+    "output_image_path": "outputs/VisA_GPT/Normal/chewinggum/080.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/081.JPG",
+    "edit_concept_1": "scrapes",
+    "edit_concept_2": "like-colored mark",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/chewinggum/081.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/085.JPG",
+    "edit_concept_1": "absent angle",
+    "edit_concept_2": "like-colored mark",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/chewinggum/085.JPG"
+  },
+  {
+    "image_path": "data/VisA/chewinggum/Data/Images/Normal/093.JPG",
+    "edit_concept_1": "scrapes",
+    "edit_concept_2": "like-colored mark",
+    "edit_concept_3": "minor fissures",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 15,
+    "output_image_path": "outputs/VisA_GPT/Normal/chewinggum/093.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0000.JPG",
+    "edit_concept_1": "piece of wax absent",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/candle/0000.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0006.JPG",
+    "edit_concept_1": "piece of wax absent",
+    "edit_concept_2": "contrasting color mark",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/candle/0006.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0010.JPG",
+    "edit_concept_1": "injured edge of packaging",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/candle/0010.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0017.JPG",
+    "edit_concept_1": "injured edge of packaging",
+    "edit_concept_2": "contrasting color mark",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/candle/0017.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0030.JPG",
+    "edit_concept_1": "unusual candle wick",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/candle/0030.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0034.JPG",
+    "edit_concept_1": "injured edge of packaging",
+    "edit_concept_2": "unusual candle wick",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/candle/0034.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0040.JPG",
+    "edit_concept_1": "contrasting color mark",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/candle/0040.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0044.JPG",
+    "edit_concept_1": "injured edge of packaging",
+    "edit_concept_2": "contrasting color mark",
+    "edit_concept_3": "additional",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 15,
+    "output_image_path": "outputs/VisA_GPT/Normal/candle/0044.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0050.JPG",
+    "edit_concept_1": "unusual candle wick",
+    "edit_concept_2": "contrasting color mark",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/candle/0050.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0053.JPG",
+    "edit_concept_1": "piece of wax absent",
+    "edit_concept_2": "injured edge of packaging",
+    "edit_concept_3": "contrasting color mark",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 15,
+    "output_image_path": "outputs/VisA_GPT/Normal/candle/0053.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0060.JPG",
+    "edit_concept_1": "surplus wax in candle",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/candle/0060.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0069.JPG",
+    "edit_concept_1": "injured edge of packaging",
+    "edit_concept_2": "surplus wax in candle",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/candle/0069.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0085.JPG",
+    "edit_concept_1": "wax fused out of the candle",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/candle/0085.JPG"
+  },
+  {
+    "image_path": "data/VisA/candle/Data/Images/Normal/0092.JPG",
+    "edit_concept_1": "contrasting color mark",
+    "edit_concept_2": "wax fused out of the candle",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/candle/0092.JPG"
+  },
+  {
+    "image_path": "data/VisA/macaroni1/Data/Images/Normal/0000.JPG",
+    "edit_concept_1": "flake near edge and corner",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/macaroni1/0000.JPG"
+  },
+  {
+    "image_path": "data/VisA/macaroni1/Data/Images/Normal/0005.JPG",
+    "edit_concept_1": "flake near edge and corner",
+    "edit_concept_2": "minor scrapes",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/macaroni1/0005.JPG"
+  },
+  {
+    "image_path": "data/VisA/macaroni1/Data/Images/Normal/0022.JPG",
+    "edit_concept_1": "flake near edge and corner",
+    "edit_concept_2": "minor fissures",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/macaroni1/0022.JPG"
+  },
+  {
+    "image_path": "data/VisA/macaroni1/Data/Images/Normal/0023.JPG",
+    "edit_concept_1": "contrasting color mark",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/macaroni1/0023.JPG"
+  },
+  {
+    "image_path": "data/VisA/macaroni1/Data/Images/Normal/0038.JPG",
+    "edit_concept_1": "central split",
+    "edit_concept_2": "minor scrapes",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/macaroni1/0038.JPG"
+  },
+  {
+    "image_path": "data/VisA/macaroni1/Data/Images/Normal/0048.JPG",
+    "edit_concept_1": "like-colored mark",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/macaroni1/0048.JPG"
+  },
+  {
+    "image_path": "data/VisA/macaroni1/Data/Images/Normal/0055.JPG",
+    "edit_concept_1": "contrasting color mark",
+    "edit_concept_2": "like-colored mark",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/macaroni1/0055.JPG"
+  },
+  {
+    "image_path": "data/VisA/macaroni1/Data/Images/Normal/0071.JPG",
+    "edit_concept_1": "minor fissures",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/macaroni1/0071.JPG"
+  },
+  {
+    "image_path": "data/VisA/macaroni1/Data/Images/Normal/0078.JPG",
+    "edit_concept_1": "minor fissures",
+    "edit_concept_2": "minor scrapes",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/macaroni1/0078.JPG"
+  },
+  {
+    "image_path": "data/VisA/macaroni1/Data/Images/Normal/0080.JPG",
+    "edit_concept_1": "minor scrapes",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/macaroni1/0080.JPG"
+  },
+  {
+    "image_path": "data/VisA/macaroni2/Data/Images/Normal/0000.JPG",
+    "edit_concept_1": "split down the center",
+    "edit_concept_2": "minor scrapes",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/macaroni2/0000.JPG"
+  },
+  {
+    "image_path": "data/VisA/macaroni2/Data/Images/Normal/0004.JPG",
+    "edit_concept_1": "split down the center",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/macaroni2/0004.JPG"
+  },
+  {
+    "image_path": "data/VisA/macaroni2/Data/Images/Normal/0010.JPG",
+    "edit_concept_1": "hue mark akin to the object",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/macaroni2/0010.JPG"
+  },
+  {
+    "image_path": "data/VisA/macaroni2/Data/Images/Normal/0030.JPG",
+    "edit_concept_1": "contrasting color mark",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/macaroni2/0030.JPG"
+  },
+  {
+    "image_path": "data/VisA/macaroni2/Data/Images/Normal/0045.JPG",
+    "edit_concept_1": "tiny flake near edge",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/macaroni2/0045.JPG"
+  },
+  {
+    "image_path": "data/VisA/macaroni2/Data/Images/Normal/0046.JPG",
+    "edit_concept_1": "tiny flake near edge",
+    "edit_concept_2": "minor scrapes",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/macaroni2/0046.JPG"
+  },
+  {
+    "image_path": "data/VisA/macaroni2/Data/Images/Normal/0070.JPG",
+    "edit_concept_1": "minor scrapes",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/macaroni2/0070.JPG"
+  },
+  {
+    "image_path": "data/VisA/macaroni2/Data/Images/Normal/0071.JPG",
+    "edit_concept_1": "split down the center",
+    "edit_concept_2": "hue mark akin to the object",
+    "edit_concept_3": "contrasting color mark",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 15,
+    "output_image_path": "outputs/VisA_GPT/Normal/macaroni2/0071.JPG"
+  },
+  {
+    "image_path": "data/VisA/macaroni2/Data/Images/Normal/0072.JPG",
+    "edit_concept_1": "minor fissures",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/macaroni2/0072.JPG"
+  },
+  {
+    "image_path": "data/VisA/macaroni2/Data/Images/Normal/0077.JPG",
+    "edit_concept_1": "minor fissures",
+    "edit_concept_2": "minor scrapes",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/macaroni2/0077.JPG"
+  },
+  {
+    "image_path": "data/VisA/macaroni2/Data/Images/Normal/0079.JPG",
+    "edit_concept_1": "split down the center",
+    "edit_concept_2": "hue mark akin to the object",
+    "edit_concept_3": "contrasting color mark",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 15,
+    "output_image_path": "outputs/VisA_GPT/Normal/macaroni2/0079.JPG"
+  },
+  {
+    "image_path": "data/VisA/macaroni2/Data/Images/Normal/0080.JPG",
+    "edit_concept_1": "split down the center",
+    "edit_concept_2": "hue mark akin to the object",
+    "edit_concept_3": "contrasting color mark",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 15,
+    "output_image_path": "outputs/VisA_GPT/Normal/macaroni2/0080.JPG"
+  },
+  {
+    "image_path": "data/VisA/macaroni2/Data/Images/Normal/0082.JPG",
+    "edit_concept_1": "split down the center",
+    "edit_concept_2": "hue mark akin to the object",
+    "edit_concept_3": "contrasting color mark",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 15,
+    "output_image_path": "outputs/VisA_GPT/Normal/macaroni2/0082.JPG"
+  },
+  {
+    "image_path": "data/VisA/pipe_fryum/Data/Images/Normal/000.JPG",
+    "edit_concept_1": "charred",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/pipe_fryum/000.JPG"
+  },
+  {
+    "image_path": "data/VisA/pipe_fryum/Data/Images/Normal/015.JPG",
+    "edit_concept_1": "angle and boundary fracture",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/pipe_fryum/015.JPG"
+  },
+  {
+    "image_path": "data/VisA/pipe_fryum/Data/Images/Normal/030.JPG",
+    "edit_concept_1": "contrasting color mark",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/pipe_fryum/030.JPG"
+  },
+  {
+    "image_path": "data/VisA/pipe_fryum/Data/Images/Normal/040.JPG",
+    "edit_concept_1": "central split",
+    "edit_concept_2": "minor scrapes",
+    "edit_concept_3": "minor fissures",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 15,
+    "output_image_path": "outputs/VisA_GPT/Normal/pipe_fryum/040.JPG"
+  },
+  {
+    "image_path": "data/VisA/pipe_fryum/Data/Images/Normal/041.JPG",
+    "edit_concept_1": "central split",
+    "edit_concept_2": "minor fissures",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/pipe_fryum/041.JPG"
+  },
+  {
+    "image_path": "data/VisA/pipe_fryum/Data/Images/Normal/050.JPG",
+    "edit_concept_1": "like-colored mark",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/pipe_fryum/050.JPG"
+  },
+  {
+    "image_path": "data/VisA/pipe_fryum/Data/Images/Normal/070.JPG",
+    "edit_concept_1": "minor scrapes",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/pipe_fryum/070.JPG"
+  },
+  {
+    "image_path": "data/VisA/pipe_fryum/Data/Images/Normal/074.JPG",
+    "edit_concept_1": "charred",
+    "edit_concept_2": "minor scrapes",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/pipe_fryum/074.JPG"
+  },
+  {
+    "image_path": "data/VisA/pipe_fryum/Data/Images/Normal/087.JPG",
+    "edit_concept_1": "like-colored mark",
+    "edit_concept_2": "minor scrapes",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 15,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/pipe_fryum/087.JPG"
+  },
+  {
+    "image_path": "data/VisA/pipe_fryum/Data/Images/Normal/090.JPG",
+    "edit_concept_1": "adhered",
+    "edit_concept_2": "",
+    "edit_concept_3": "",
+    "guidnace_scale_1": 15,
+    "guidnace_scale_2": 7,
+    "guidnace_scale_3": 7,
+    "output_image_path": "outputs/VisA_GPT/Normal/pipe_fryum/090.JPG"
+  }
+]
